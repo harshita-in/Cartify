@@ -1,0 +1,38 @@
+# Maven
+target/
+*.pom
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IDEs and Editors
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.classpath
+.project
+.settings/
+
+# H2 database files
+*.mv.db
+*.trace.db
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
